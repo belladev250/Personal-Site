@@ -165,9 +165,11 @@ export const experience = [
     place: "Kigali, Rwanda",
     period: "Sept 2024 – Present",
     points: [
-      "Build and maintain API-driven platforms (Next.js, Strapi, Node.js, PostgreSQL) for structured data and automated content workflows",
-      "Migrated the Genocide Research Hub (AEGIS Trust) to a modern Strapi architecture; built HangaPitchfest from scratch",
-      "Delivered the RwandaFoam website and maintain technical documentation for the 250 Podcast Lab platform",
+      "Developed and maintained production web platforms using Next.js, Strapi, Node.js, and PostgreSQL.",
+      "Built HangaPitchfest from the ground up, supporting startup, investor, and mentor engagement",
+      "Migrated the Genocide Research Hub from a legacy content system to a modern Strapi architecture.",
+      "Delivered RwandaFoam's corporate website, owning frontend development and API integration.",
+      "Maintained technical documentation and supported platform reliability across projects."
     ],
   },
   {
